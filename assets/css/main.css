@@ -1,0 +1,81 @@
+div{
+	position: absolute;
+}
+
+.contenedor {
+	width: 100%;
+	height: 100%;
+	border: 2px solid white;
+  
+}
+
+
+.cancha{
+
+	width: 80%;
+	height: 80%;
+	margin-top: 5%;
+	margin-left: 10%;
+	border: 2px solid darkgreen;
+	background: darkgreen;
+	
+}
+.lineaDiv{
+	width: 90%;
+	height: 90%;
+	border: 2px solid white;
+	left: 5%;
+	top: 5%;
+}
+.porteria{
+	width: 130px;
+	height: 280px;
+}
+#port1{
+	margin-top: 10%;
+	left: 0%;
+    border: 5px solid white;
+	position: relative;
+	
+}
+#port2{
+    margin-top: -31.2%;
+	margin-left: 85%;
+	border: 5px solid white;
+	position: relative;
+	
+}
+.medioCampo {
+	top:38%;
+	left: 43%;
+     width: 110px;
+     height: 110px;
+     border-radius: 50%;
+     border-radius: 50%;
+     border-radius: 50%;
+	border: 3px solid white;
+     
+}
+.pelota {
+	
+     width: 30px;
+     height: 30px;
+     border-radius: 50%;
+     border-radius: 50%;
+     border-radius: 50%;
+	 border: 3px solid white;
+	background: white;
+     
+}
+#pe1 {
+	top: 16%;
+	left: 15%;
+}
+#pe2 {
+	top: 6%;
+	left: 45%
+}
+#pe3 {
+	top: 77%;
+	left: 82%;
+}
